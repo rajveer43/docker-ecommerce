@@ -1,6 +1,6 @@
 # docker-ecommerce
 
-### **Abstract**
+## **Abstract**
 
 *In recent years DevOps has entered the stage of software development as a culture that promotes fast,
 frequent and reliable software delivery. The culture has appeared as processes of continuous integration
@@ -23,7 +23,7 @@ work that is being carried out in this area. Further, the paper includes key use
 benefits and challenges involved in its usage*
 
 
-### **Micro services Architecture**
+## **Micro services Architecture**
 
 There is a couple of microservices which implemented **e-commerce** modules over **Catalog, Basket, Discount** and **Ordering** microservices with **NoSQL (MongoDB, Redis)** and **Relational databases (PostgreSQL, Sql Server)** with communicating over **RabbitMQ Event Driven Communication** and using **Ocelot API Gateway**.
 
