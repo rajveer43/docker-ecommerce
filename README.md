@@ -21,7 +21,7 @@ that it will ultimately be running on. Also, it potentially reduces the number o
 flexibility for the operations staff.*
 
 
-## **Micro services Architecture**
+## **Microservices Architecture**
 
 There is a couple of microservices which implemented **e-commerce** modules over **Catalog, Basket, Discount** and **Ordering** microservices with **NoSQL (MongoDB, Redis)** and **Relational databases (PostgreSQL, Sql Server)** with communicating over **RabbitMQ Event Driven Communication** and using **Ocelot API Gateway**.
 
