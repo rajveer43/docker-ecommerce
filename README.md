@@ -27,7 +27,8 @@ There is a couple of microservices which implemented **e-commerce** modules over
 
 
 We have implemented below **Features in this project**.
-![microservices_remastered](https://drive.google.com/file/d/1oLTrIETnNP2goo2q1zwQtZ3oHc7gMjsj/view?usp=sharing)
+
+![microservices_remastered](process_flow.png)
 
 
 #### Catalog microservice which includes; 
