@@ -18,9 +18,7 @@ promote quick shipping, testing, and deploying code anywhere, which reduces the 
 development and its deployment in production. It has a wider scope of benefits for both Developers and
 System Administrators by allowing Developers to write code without having to worry about the system,
 that it will ultimately be running on. Also, it potentially reduces the number of systems and offers
-flexibility for the operations staff. This paper discusses the basics of Docker containers as well as related
-work that is being carried out in this area. Further, the paper includes key use cases along with the
-benefits and challenges involved in its usage*
+flexibility for the operations staff.*
 
 
 ## **Micro services Architecture**
