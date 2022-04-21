@@ -93,3 +93,12 @@ We have implemented below **Features in this project**.
 * Containerization of microservices
 * Containerization of databases
 * Override Environment variables
+
+
+## Run The Project
+You will need the following tools:
+
+* [Visual Studio 2019 & above version](https://visualstudio.microsoft.com/downloads/)
+* [.Net Core 5 or later](https://dotnet.microsoft.com/download/dotnet-core/5)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop)
+
