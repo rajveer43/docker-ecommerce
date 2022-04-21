@@ -94,7 +94,7 @@ We have implemented below **Features in this project**.
 
 
 ## Run The Project
-You will need the following tools:
+You will need the following tools to run this application on your machine:
 
 * [Visual Studio 2019 & above version](https://visualstudio.microsoft.com/downloads/)
 * [.Net Core 5 or later](https://dotnet.microsoft.com/download/dotnet-core/5)
